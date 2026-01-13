@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T12:40:14.356566+09:00",
+  "lastUpdated": "2026-01-13T12:45:13.968587+09:00",
   "dataDate": "20260112",
   "korean": {
     "price": 216200.0,
@@ -8,9 +8,9 @@
     "source": "KRX"
   },
   "international": {
-    "priceUsd": 4598.8,
-    "priceKrw": 216889.59
+    "priceUsd": 4596.3,
+    "priceKrw": 216771.69
   },
   "exchangeRate": 1466.91,
-  "premium": -0.32
+  "premium": -0.26
 }
